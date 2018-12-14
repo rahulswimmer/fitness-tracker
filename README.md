@@ -1,20 +1,27 @@
-# fitness-tracker
-Angular 7 app for tracking fitness regime.
---------------------------------------------------- 
-- This app uses Google material design for building the app.
-- It covers almost, all components of Google Material, eg:
-    1) Dialog
-    2) Snackbar
-    3) Progress Spinner
-    4) Card
-    5) Button
-    6) Form attributes like input box, select, datepicker, radio button, checkbox, etc...
-    7) List
-    10) Side navigation
-    11) Menu and Tool bar
-    12) Hints and errors using Mat Form Field
+# FitnessTracker
 
-- Will add more, as and when i implement it further....
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-- Planning to use ngrx/ store for state management.
-- Using angular-flexbox module for styling, aligning and responsive UI.
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
